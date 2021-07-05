@@ -7,14 +7,13 @@
 | 구트아카데미 | 소프트웨어 개발 교육 |  ~ 2021.11.17 |
 
 <h2>Tech</h2>
-
-   [![JAVA](https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=black)](github.com/kimsunho940904/TODO-List)<br>
-   [![ORACLE](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=black)](github.com/kimsunho940904/TODO-List)<br>
-      [![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML&logoColor=black)](github.com/kimsunho940904/TODO-List)
-            [![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=black)](github.com/kimsunho940904/TODO-List)
-   [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/kimsunho940904/TODO-List)<br>
-      [![SPRING](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=black)](github.com/kimsunho940904/TODO-List)
-         [![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=black)](github.com/kimsunho940904/TODO-List)
+ <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/><br>
+   <img alt="Oracle" src ="https://img.shields.io/badge/oracle-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white" /><br>
+      <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+            <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><br>
+      <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/><br>
+ <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimsunho940904%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
    
