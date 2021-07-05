@@ -2,8 +2,9 @@
  
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=SunhoKim&fontSize=90)
 
- ~ 2021.11.17 Goott Adademy 
- 
+ | 위치 | 내용 | 끝 |
+|:--------:|:--------:|:--------:|
+| 구트아카데미 | 개발 교육 |  ~ 2021.11.17 |
 
 <h2>Tech</h2>
 
