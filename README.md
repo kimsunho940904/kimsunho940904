@@ -5,7 +5,7 @@
  ~ 2021.11.17 Goott Adademy 
  
 
-<h2>Tech Stack</h2>
+<h2>Tech</h2>
 
    [![JAVA](https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=black)](github.com/kimsunho940904/TODO-List)<br>
    [![ORACLE](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=black)](github.com/kimsunho940904/TODO-List)<br>
