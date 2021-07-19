@@ -5,7 +5,7 @@
  | 위치 | 내용 | 끝 | 결과 |
 |:--------:|:--------:|:--------:|:--------:|
 |정보처리산업기사|필기시험| ~ 2021.08.14|진행중|
-| 구트아카데미 | 소프트웨어 개발 교육 |  ~ 2021.11.17 |진행중 |
+| 구트아카데미 | 소프트웨어 개발 교육 | ~ 2021.11.17 |진행중 |
 
 <h2>Tech</h2>
  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/><br>
