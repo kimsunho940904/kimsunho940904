@@ -4,14 +4,7 @@
   <li>끝까지 포기하지 않기 위해 1일 1커밋 운동과 블로그 운영을 하고 있습니다.</li>
   <li>☕️와 카페에 관심이 많습니다. </li>
   </ul>
-  <hr>
-  <h1>Contact & Channel</h1>
-  <ul>
-  <li><strong>Email | hkkbc123@gmail.com</strong></li>
-  <li><strong>Github | github.com/kimsunho940904</strong></li>
-  <li><strong>Tistory | hkkbc@tistory.com</strong></li>
-   <li>velog | <strong>velog.io/@kimsunho940904</strong></li>
-  </ul>
+
   <hr>
   <h1>Skills</h1>
   <ul>
@@ -20,7 +13,15 @@
   <li>HTML, Javascript, JSP</li>
   <li>Spring MVC, Spring Boot, JPA</li>
   </ul>
- <hr>
+ 
+  <hr>
+  <h1>Contact & Channel</h1>
+  <ul>
+  <li><strong>Email | hkkbc123@gmail.com</strong></li>
+  <li><strong>Github | github.com/kimsunho940904</strong></li>
+  <li><strong>Tistory | hkkbc@tistory.com</strong></li>
+   <li>velog | <strong>velog.io/@kimsunho940904</strong></li>
+  </ul>
 
 <!-- <h2>Tech</h2>
  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/><br>
