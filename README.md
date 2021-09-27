@@ -9,7 +9,7 @@
   <h1>Skills</h1>
   <ul>
   <li>Java</li>
-  <li>Oracle</li>
+  <li>Oracle, MySQL</li>
   <li>HTML, Javascript, JSP</li>
   <li>Spring MVC, Spring Boot, JPA</li>
   </ul>
