@@ -20,7 +20,7 @@
   <li><strong>Email | hkkbc123@gmail.com</strong></li>
   <li><strong>Github | github.com/kimsunho940904</strong></li>
   <li><strong>Tistory | hkkbc@tistory.com</strong></li>
-   <li>velog | <strong>velog.io/@kimsunho940904</strong></li>
+   <li><strong>velog | velog.io/@kimsunho940904</strong></li>
   </ul>
 
 <!-- <h2>Tech</h2>
