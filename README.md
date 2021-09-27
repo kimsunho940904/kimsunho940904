@@ -10,7 +10,7 @@
   <ul>
   <li>Java</li>
   <li>Oracle, MySQL</li>
-  <li>HTML, Javascript, JSP</li>
+  <li>HTML, Javascript, JSP&Servlet</li>
   <li>Spring MVC, Spring Boot, JPA</li>
   </ul>
  
