@@ -7,7 +7,7 @@
   </ul>
 
   <hr>
-  <h1>🔧Skills</h1>
+  <h1>Skills</h1>
   <ul>
   <li>Java</li>
   <li>Oracle, MySQL</li>
@@ -16,7 +16,7 @@
   </ul>
  
   <hr>
-  <h1>📨Contact & Channel</h1>
+  <h1>Contact & Channel</h1>
   <ul>
   <li><strong>Email | hkkbc123@gmail.com</strong></li>
   <li><strong>Github | github.com/kimsunho940904</strong></li>
