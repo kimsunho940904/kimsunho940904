@@ -19,6 +19,7 @@
   <hr>
   <h1>Contact & Channel</h1>
   <ul>
+   <li>http://kimsunho0904.shop</li>
   <li><strong>Email | hkkbc123@gmail.com</strong></li>
   <li><strong>Github | github.com/kimsunho940904</strong></li>
   <li><strong>Tistory | hkkbc@tistory.com</strong></li>
