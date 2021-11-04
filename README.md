@@ -11,7 +11,8 @@
   <ul>
   <li>Java</li>
   <li>Oracle, MySQL</li>
-  <li>HTML, Thymeleaf, Javascript, JSP&Servlet</li>
+  <li>HTML, CSS, Javascript</li>
+   <li>JSP, Thymeleaf</li>
   <li>Spring Boot, JPA</li>
   </ul>
  
