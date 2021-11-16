@@ -22,7 +22,7 @@
    <li><strong>개인 웹 | http://kimsunho0904.shop</strong></li>
   <li><strong>Email | hkkbc123@gmail.com</strong></li>
   <li><strong>Github | https://github.com/kimsunho940904</strong></li>
-  <li><strong>Tistory | https://hkkbc.tistory.com/</strong></li>
+<!--   <li><strong>Tistory | https://hkkbc.tistory.com/</strong></li> -->
    <li><strong>velog | https://velog.io/@kimsunho940904</strong></li>
   </ul>
 
