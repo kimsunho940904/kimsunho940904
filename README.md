@@ -1,23 +1,22 @@
-   <h1>Introduce</h1>
+   <h1>📲 Introduce</h1>
 <ul>
-  <li>안녕하세요. 백엔드 개발자 취업을 희망하는 김선호 입니다.</li>
-   <li>현재, 국비지원교육 및 강의를 들으며 공부를 하고 있습니다.</li>
-  <li>꾸준하게 공부를 하기 위해 1일 1커밋 운동과 블로그 운영을 하고 있습니다.</li>
-  <li>☕️ 와 카페에 관심이 많습니다. </li>
+  <li>😊 안녕하세요. 현재 SI회사에서 근무하고 있는 김선호 입니다.</li>
+  <li>📑 꾸준하게 공부하기 위하여 1일 1커밋 운동과, 블로그를 운영하고 있습니다.</li>
+  <li>☕️ 와 ✈️ 여행 가는것을 좋아합니다. </li>
   </ul>
 
   <hr>
-  <h1>Skills</h1>
+  <h1>🎑 Skills</h1>
   <ul>
   <li>Java</li>
   <li>Oracle, MySQL</li>
   <li>HTML, CSS, Javascript</li>
-   <li>JSP, Thymeleaf</li>
+  <li>JSP, Thymeleaf</li>
   <li>Spring, Spring Boot, JPA</li>
   </ul>
  
   <hr>
-  <h1>Contact & Channel</h1>
+  <h1>🌠 Contact & Channel</h1>
   <ul>
    <li><strong>개인 웹 | http://kimsunho0904.shop</strong></li>
   <li><strong>Email | hkkbc123@gmail.com</strong></li>
