@@ -14,6 +14,23 @@
   <li>JSP, Thymeleaf</li>
   <li>Spring, Spring Boot, JPA</li>
   </ul>
+  
+  <hr>
+  <h1>🏅 Certification</h1>
+  <ul>
+   <li>스파르타코딩클럽 | 개발자 과정(2021.09 - 2021.11) | 수료 </li>
+   <li>구트아카데미 | 웹 개발자 양성 과정(2021.06 - 2021.11) | 수료</li>
+   <li>쌍용교육센터 | 소프트웨어 개발자 과정(2017.11 - 2018.06) | 수료</li>
+   </ul>
+   
+   <hr>
+   <h1>👍 2022Target</h1>
+   <ul>
+   <li>내일채움공제 2년 채우기</li>
+   <li>학점은행제 학점 채우기</li>
+   <li>컴퓨터활용능력 2급, SQLD, 정보처리기사 획득</li>
+   <li>부족한 Spring 공부</li>
+   </ul>
  
   <hr>
   <h1>🌠 Contact & Channel</h1>
