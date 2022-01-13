@@ -24,6 +24,7 @@
    <li>redmine</li>
    <li>gitLab</li>
    <li>postgreSQL</li>
+   <li>Pinpoint NAVER D2</li>
    </ul>
   <hr>
   <h1>🏅 Certification</h1>
