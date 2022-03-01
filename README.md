@@ -15,18 +15,6 @@
   <li>Spring, Spring Boot, JPA</li>
   </ul>
   <hr>
-  <h1>😼 Tools(공부중)</h1>
-  <ul>
-   <li>IntelliJ</li>
-   <li>Jira</li>
-   <li>Jenkins</li>
-   <li>nginx</li>
-   <li>redmine</li>
-   <li>gitLab</li>
-   <li>postgreSQL</li>
-   <li>Pinpoint NAVER D2</li>
-   </ul>
-  <hr>
   <h1>🏅 Certification</h1>
   <ul>
    <li>스파르타코딩클럽 | 수료 </li>
