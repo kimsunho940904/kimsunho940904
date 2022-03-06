@@ -4,8 +4,6 @@
   <li>📑 꾸준하게 공부하기 위하여 1일 1커밋 운동과, 블로그를 운영하고 있습니다.</li>
   <li>👍 커피와 여행, 그리고 운동을 좋아합니다. </li>
   </ul>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsunho940904)](https://github.com/kimsunho940904/github-readme-stats)
   <hr>
   <h1>🎑 Skills</h1>
   <ul>
@@ -40,3 +38,10 @@
   <li><strong>Github | https://github.com/kimsunho940904</strong></li>
    <li><strong>velog | https://velog.io/@kimsunho940904</strong></li>
   </ul>
+  
+  <div>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsunho940904)](https://github.com/kimsunho940904/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsunho940904)](https://github.com/kimsunho940904/github-readme-stats)
+  </div>
