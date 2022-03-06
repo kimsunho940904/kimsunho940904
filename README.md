@@ -5,6 +5,7 @@
   <li>👍 커피와 여행, 그리고 운동을 좋아합니다. </li>
   </ul>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsunho940904)](https://github.com/kimsunho940904/github-readme-stats)
   <hr>
   <h1>🎑 Skills</h1>
   <ul>
@@ -39,4 +40,3 @@
   <li><strong>Github | https://github.com/kimsunho940904</strong></li>
    <li><strong>velog | https://velog.io/@kimsunho940904</strong></li>
   </ul>
-
