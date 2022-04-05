@@ -1,3 +1,4 @@
+<!--
 <h1>📲 Introduce</h1>
 <ul>
   <li>😊 안녕하세요. 현재 솔루션회사에서 근무하고 있는 김선호 입니다.</li>
@@ -29,7 +30,7 @@
    <li>컴퓨터활용능력 2급, SQLD, 정보처리기사 취득</li>
    <li>부족한 Spring 공부</li>
    </ul>
- 
+ -->
   <hr>
   <h1>🌠 Contact & Channel</h1>
   <ul>
