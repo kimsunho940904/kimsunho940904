@@ -30,8 +30,8 @@
    <li>컴퓨터활용능력 2급, SQLD, 정보처리기사 취득</li>
    <li>부족한 Spring 공부</li>
    </ul>
- -->
   <hr>
+-->
   <h1>🌠 Contact & Channel</h1>
   <ul>
    <li><strong>개인 웹 | http://kimsunho0904.shop</strong></li>
@@ -39,10 +39,8 @@
   <li><strong>Github | https://github.com/kimsunho940904</strong></li>
    <li><strong>velog | https://velog.io/@kimsunho940904</strong></li>
   </ul>
-  
-  <div>
-  
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsunho940904)](https://github.com/kimsunho940904/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsunho940904)](https://github.com/kimsunho940904/github-readme-stats)
-  </div>
+  
