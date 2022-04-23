@@ -39,8 +39,4 @@
   <li><strong>Github | https://github.com/kimsunho940904</strong></li>
    <li><strong>velog | https://velog.io/@kimsunho940904</strong></li>
   </ul>
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsunho940904)](https://github.com/kimsunho940904/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsunho940904)](https://github.com/kimsunho940904/github-readme-stats)
-  
